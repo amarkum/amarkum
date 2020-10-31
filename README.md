@@ -1,4 +1,7 @@
 ### Hi!
+I am Amar, a tech-enthusiast, who has tremendous zeal to lear new technologies,
+currently working for one of Biggest Investment Banking Company.
+
 
 ![](amar.png)
 <!--
