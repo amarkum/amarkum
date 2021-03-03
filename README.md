@@ -3,7 +3,7 @@ I am Amar, a tech-enthusiast, who has tremendous zeal to learn new technologies,
 currently working for one of Biggest Investment Banking Company.
 
 
-![](amar-intro.png)
+![](amar-opening.png)
 <!--
 **amarkum/amarkum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
