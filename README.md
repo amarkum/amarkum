@@ -7,6 +7,8 @@ I am driven by my desire to constantly learn and adapt to new technologies, leve
 Beyond work, I enjoy exploring the latest advancements in technology, keeping up with best practices.
 I thrive in individual contributor roles where I can dive deep into complex technical challenges.
 
+Let’s connect and collaborate on innovative tech solutions!
+
 ![](amar-opening.png)
 ## Certifications
 
