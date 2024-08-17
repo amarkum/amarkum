@@ -15,7 +15,7 @@ Let’s connect and collaborate on innovative tech solutions!
 
 ### Verified International Academic Qualifications
 
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478">
     <img src="https://images.credly.com/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png" alt="International Academic Qualifications" width="120px">
   </a>
@@ -29,6 +29,6 @@ Let’s connect and collaborate on innovative tech solutions!
     <path vector-effect="non-scaling-stroke" stroke="var(--icon-color-bg, #fff)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" d="M15.5 9.7L11 14.3l-2.5-2.5"></path>
   </svg>
 
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478" style="color:blue;">View certification</a>
 </p>
