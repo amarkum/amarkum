@@ -8,7 +8,6 @@ Beyond work, I enjoy exploring the latest advancements in technology, keeping up
 I thrive in individual contributor roles where I can dive deep into complex technical challenges.
 
 ![](amar-opening.png)
-
 ## Certifications
 
 ### Verified International Academic Qualifications
@@ -17,8 +16,4 @@ I thrive in individual contributor roles where I can dive deep into complex tech
   <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478">
     <img src="https://images.credly.com/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png" alt="International Academic Qualifications" width="120px">
   </a>
-</p>
-
-<p align="left">
-  <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478" style="color:blue;">View certification</a>
 </p>
