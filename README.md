@@ -10,17 +10,15 @@ I thrive in individual contributor roles where I can dive deep into complex tech
 Let’s connect and collaborate on innovative tech solutions!
 
 ![](amar-opening.png)
-<!--
-**amarkum/amarkum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Verified International Academic Qualifications
+[![International Academic Qualifications](https://images.credly.com/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](https://www.credly.com/badges/your-certification-link)
+- **Provider**: World Education Services
+- **Issued**: June 2024
+- **Verified by**: Credly
+
+[View certification](https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478)
+
+
