@@ -14,11 +14,19 @@ Let’s connect and collaborate on innovative tech solutions!
 ## Certifications
 
 ### Verified International Academic Qualifications
-[![International Academic Qualifications](https://images.credly.com/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](https://www.credly.com/badges/your-certification-link)
+
+<p align="center">
+  <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478">
+    <img src="https://images.credly.com/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png" alt="International Academic Qualifications" width="200px">
+  </a>
+</p>
+
 - **Provider**: World Education Services
 - **Issued**: June 2024
-- **Verified by**: Credly
+- **Verified by**: 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Credly_logo.svg/1200px-Credly_logo.svg.png" alt="Verified by Credly" width="80px">
 
-[View certification](https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478)
-
+<p align="center">
+  <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478" style="color:blue;">View certification</a>
+</p>
 
