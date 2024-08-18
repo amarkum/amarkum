@@ -1,4 +1,4 @@
-### Hello World!
+## Introduction
 I am Amar, a passionate Senior Data/Software Engineer with over 9 years of experience in the IT industry.
 
 I specialize in Java, Cloud Technologies, and Big Data, with a strong focus on scalable architecture and optimized solutions. <br/>
