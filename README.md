@@ -1,5 +1,5 @@
 ## Introduction
-I am Amar, a passionate Senior Software Engineer with over 9 years of experience in the IT industry.
+I am Amar, a passionate Senior Software Engineer with over 10+ years of experience in the IT industry.
 
 I specialize in Java, Cloud Technologies, and Big Data, with a strong focus on scalable architecture and optimized solutions. <br/>
 I am driven by my desire to constantly learn and adapt to new technologies, leveraging my expertise in Python, data engineering, and cloud infrastructure to create efficient and robust systems. 
