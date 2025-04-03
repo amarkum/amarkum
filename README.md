@@ -18,5 +18,3 @@ Driven by continuous learning, I stay up to date with evolving technologies and 
 
 </p>
   
-- Certified in <strong>International Academic Qualifications</strong> via Credly.
-
