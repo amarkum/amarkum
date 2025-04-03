@@ -7,7 +7,7 @@ Driven by continuous learning, I stay up to date with evolving technologies and 
 <br/>
 <br/>
 
-![](amar-opening.png)
+
 ## Certifications
 
 <p align="left">
