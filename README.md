@@ -1,11 +1,9 @@
 ## Introduction
-I am Amar, a passionate Senior Software Engineer with over 10+ years of experience in the IT industry.
+I am Amar, a passionate Software Architect and Data Engineering Expert with over 10 years of experience in the IT industry.
 
-I specialize in Java, Cloud Technologies, and Big Data, with a strong focus on scalable architecture and optimized solutions. <br/>
-I am driven by my desire to constantly learn and adapt to new technologies, leveraging my expertise in Python, data engineering, and cloud infrastructure to create efficient and robust systems. 
+I specialize in backend development, cloud technologies, and big data systems, with a strong focus on building scalable architectures and delivering performance-optimized solutions. I combine deep technical expertise in Java and Python with hands-on experience in cloud platforms and data engineering to create systems that are efficient, reliable, and future-ready.
 
-Beyond work, I enjoy exploring the latest advancements in technology, keeping up with best practices.
-I thrive in individual contributor roles where I can dive deep into complex technical challenges.
+Driven by continuous learning, I stay up to date with evolving technologies and industry best practices. I thrive in roles that allow me to architect systems end-to-end, solve complex problems, and bring clarity and structure to technical challenges.
 <br/>
 <br/>
 
