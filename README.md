@@ -10,15 +10,18 @@ Driven by continuous learning, I stay up to date with evolving technologies and 
 
 ## Certificates
 
-<p align="center">
+<!-- Certificates section – left‑aligned, both badges the same size with some space in between -->
+<p align="left">
   <!-- WES Badge -->
-  <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478" target="_blank" style="margin:0 20px;">
+  <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478" target="_blank">
     <img src="https://images.credly.com/images/c4569922-64bd-4bb9-9eda-a37736389d26/image.png"
-         alt="International Academic Qualifications" width="100px">
+         alt="International Academic Qualifications" width="100">
   </a>
 
-  <!-- IELTS Certificate -->
-  <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478" target="_blank" style="margin:0 20px;">
-    <img src="./ielts-logo.webp" alt="IELTS Certificate" width="100px">
+  &nbsp;&nbsp;&nbsp;<!-- simple spacing that works on GitHub -->
+
+  <!-- IELTS Badge -->
+  <a href="./ielts-logo.webp" target="_blank">
+    <img src="./ielts-logo.webp" alt="IELTS Certificate" width="100">
   </a>
 </p>
