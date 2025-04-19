@@ -8,7 +8,7 @@ Driven by continuous learning, I stay up to date with evolving technologies and 
 <br/>
 
 
-## Achievements
+## Certificates
 
 <p align="left">
   <!-- WES Badge -->
@@ -17,4 +17,5 @@ Driven by continuous learning, I stay up to date with evolving technologies and 
   </a>
 
 </p>
+  
   
