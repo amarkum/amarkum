@@ -15,6 +15,9 @@ Driven by continuous learning, I stay up to date with evolving technologies and 
   <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478" target="_blank">
     <img src="https://images.credly.com/images/c4569922-64bd-4bb9-9eda-a37736389d26/image.png" alt="International Academic Qualifications" width="100px">
   </a>
+  <a href="https://www.credly.com/badges/aec2423f-8453-4db8-9e09-a0d6c6d28478" target="_blank">
+    <img src="./ielts-logo.webp" alt="International Academic Qualifications" width="100px">
+  </a>
 
 </p>
   
