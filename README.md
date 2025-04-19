@@ -17,7 +17,7 @@ Driven by continuous learning, I stay up to date with evolving technologies and 
     <img src="https://images.credly.com/images/c4569922-64bd-4bb9-9eda-a37736389d26/image.png"
          alt="International Academic Qualifications" height="100">
   </a>
-
+&nbsp;
   <!-- IELTS Badge -->
   <a href="./ielts-logo.webp" target="_blank">
     <img src="./ielts-logo.webp" alt="IELTS Certificate" height="100">
