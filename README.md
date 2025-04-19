@@ -18,8 +18,6 @@ Driven by continuous learning, I stay up to date with evolving technologies and 
          alt="International Academic Qualifications" height="100">
   </a>
 
-  &nbsp;&nbsp;&nbsp;<!-- space between badges -->
-
   <!-- IELTS Badge -->
   <a href="./ielts-logo.webp" target="_blank">
     <img src="./ielts-logo.webp" alt="IELTS Certificate" height="100">
